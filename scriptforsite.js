@@ -1,5 +1,9 @@
 function playGame(){
 
+
+
+
+
     let choice = document.querySelector('input[name="move"]:checked');
 
     if(!choice){
@@ -42,6 +46,10 @@ function playGame(){
 
     return false;
 }
+
+
+
+
 
 function checkText(){
 
