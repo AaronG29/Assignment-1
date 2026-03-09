@@ -62,6 +62,6 @@ function checkText(){
         return false;
     }
 
-    window.location="success.html";
+window.location="winningpage.html";
     return false;
 }
